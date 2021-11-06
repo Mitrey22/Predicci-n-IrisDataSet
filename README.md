@@ -9,7 +9,5 @@ Followings technologies are used for development and deployment of this projects
 -  Sklearn
 
 ## App Screenshots
-Preview screen
 ![Iris WebApp Screenshot](https://github.com/Mitrey22/Predicci-n-IrisDataSet/blob/main/screencapture.PNG "Preview screen")
-Predict screen
 ![Iris WebApp Screenshot](https://github.com/Mitrey22/Predicci-n-IrisDataSet/blob/main/screencapture_predicction.PNG "Predict screen")
